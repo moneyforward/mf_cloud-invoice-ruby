@@ -1,6 +1,6 @@
 # mf_cloud-invoice-ruby [![Build Status](https://travis-ci.org/moneyforward/mf_cloud-invoice-ruby.svg?branch=master)](https://travis-ci.org/moneyforward/mf_cloud-invoice-ruby) [![Code Climate](https://codeclimate.com/github/moneyforward/mf_cloud-invoice-ruby/badges/gpa.svg)](https://codeclimate.com/github/moneyforward/mf_cloud-invoice-ruby)
 
-[MFクラウド請求書API](https://github.com/moneyforward/invoice-api-doc) client library for Ruby
+[MFクラウド請求書API](https://invoice.moneyforward.com/api/v2/swagger_ui) client library for Ruby
 
 ## Installation
 
